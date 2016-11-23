@@ -64,7 +64,7 @@ public class CameraActivity extends AppCompatActivity {
     // variavel Cloud Vision
     private TextView mImageDetails;
     private ImageView mMainImage;
-    private static final String CLOUD_VISION_API_KEY = "chave aqui";
+    private static final String CLOUD_VISION_API_KEY = "chave aqui......";
 
 
     TextView texto;
